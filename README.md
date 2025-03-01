@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Gabriel</h1>
-<h3 align="center">Entendi! Aqui está o ajuste para deixar mais neutro: --- Sou um desenvolvedor web que cria projetos com a stack MERN (MongoDB, Express, React e Node.js), sempre buscando desenvolver aplicações funcionais e bem estruturadas. No GitHub, você encontrará projetos como um portal de empregos e sistemas de autenticação personalizados. Meu foco é aprimorar constantemente minhas habilidades e construir soluções eficientes.</h3>
+<h3 align="center"> Sou um desenvolvedor web que cria projetos com a stack MERN (MongoDB, Express, React e Node.js), sempre buscando desenvolver aplicações funcionais e bem estruturadas. No GitHub, você encontrará projetos como um portal de empregos e sistemas de autenticação personalizados. Meu foco é aprimorar constantemente minhas habilidades e construir soluções eficientes.</h3>
 
 - 🌱 O que estou aprendendo atualmente? **Atualmente na stack MERN, porém, aberto a outras possibilidades**
 

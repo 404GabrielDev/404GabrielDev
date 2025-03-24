@@ -1,4 +1,4 @@
-<h2 align="left">Olá! 👋, sou Gabriel !<br><br>Estou em busca da minha primeira oportunidade na área de desenvolvimento.  <br>Tenho experiência em projetos pessoais com React, Node.js, JavaScript e outras tecnologias do ecossistema web.  <br>Estou sempre aprendendo e desenvolvendo projetos para aprimorar minhas habilidades. 🚀</h2>
+<h2 align="left">Olá! 👋, sou Gabriel !<br><br>Desenvolvedor em constante aprendizado, com experiência prática em projetos pessoais utilizando React, Node.js, JavaScript e outras tecnologias web. Gosto de explorar novas soluções e aprimorar minhas habilidades por meio de desafios e desenvolvimento contínuo.
 
 ###
 

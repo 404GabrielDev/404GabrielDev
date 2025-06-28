@@ -1,0 +1,19 @@
+name: GitHub Metrics
+
+on:
+  schedule: [{cron: "0 0 * * *"}] # Atualiza todo dia
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Seu username
+          user: 404GabrielDev
+          template: classic
+          base: ""
+          config_timezone: America/Sao_Paulo
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year

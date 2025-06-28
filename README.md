@@ -58,6 +58,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/404GabrielDev/404GabrielDev/output/snake.svg" alt="Snake animation" />
-
 ###

@@ -57,5 +57,8 @@
 </div>
 
 ###
+### 📆 My Contributions (Full Year Calendar)
+
+<img src="https://github.com/404GabrielDev/404GabrielDev/blob/generated/metrics.plugin.isocalendar.fullyear.svg" alt="GitHub Metrics Full Year Calendar">
 
 ###

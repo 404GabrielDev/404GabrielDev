@@ -1,8 +1,4 @@
-<p align="center" style="text-align:center;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Jo%C3%A3o+Gabriel+Full+Stack" alt="Typing SVG" />
-  </a>
-</p>
+<img src= "https://capsule-render.vercel.app/api?type=waving&height=300&color=00FFFF&text=Software%20Engineer&desc=Full%20Stack%20Developer&section=footer&descAlignY=75&fontColor=fff&animation=fadeIn&descAlign=50" />
 
 
 ###

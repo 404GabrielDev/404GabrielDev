@@ -50,9 +50,4 @@
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=f70&text=Software%20Engineer&section=footer&descAlignY=50&fontColor=fff&animation=fadeIn" alt="Software Engineer Footer" />
-</p>
-
-
 

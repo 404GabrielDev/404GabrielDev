@@ -1,4 +1,4 @@
-<h2 align="center">João Gabriel Full Stack Developer</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Jo%C3%A3o+Gabriel+Full+Stack)](https://git.io/typing-svg)
 
 ###
 

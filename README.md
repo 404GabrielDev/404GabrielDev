@@ -41,7 +41,9 @@
 
 ###
 
-<div align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=404GabrielDev&theme=dark)
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=404GabrielDev&theme=dark" alt="Profile Details"/>
+</p>
+
+
 

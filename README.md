@@ -1,4 +1,7 @@
+
+<p align="center">
 <img src= "https://capsule-render.vercel.app/api?type=waving&height=300&color=00FFFF&text=Software%20Engineer&desc=Full%20Stack%20Developer&section=footer&descAlignY=75&fontColor=fff&animation=fadeIn&descAlign=50" />
+</p>
 
 
 ###

@@ -41,5 +41,5 @@
 
 ###
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=black&text=Software%20Engineer&section=footer&descAlignY=50)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Software%20Engineer&section=footer&descAlignY=50)
 

@@ -3,11 +3,8 @@
 
 ###
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=404GabrielDev&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=404GabrielDev&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=404GabrielDev&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=404GabrielDev&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=404GabrielDev&theme=dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=404GabrielDev&theme=dark)
+| :-: | :-: | :-: |
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=404GabrielDev&theme=dark&utcOffset=8)
 

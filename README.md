@@ -1,4 +1,4 @@
-<h2 align="left">João Gabriel Full Stack Developerr</h2>
+<h2 align="center">João Gabriel Full Stack Developer</h2>
 
 ###
 

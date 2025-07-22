@@ -41,5 +41,5 @@
 
 ###
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Software%20Engineer&section=footer&descAlignY=50)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=404GabrielDev&theme=dark)
 
